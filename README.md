@@ -2,11 +2,13 @@
 
 This workbench contains tools to interact with different web services. Current webservices include:
 
-- <img src="./icons/git.svg" width="20" height="20" alt="git logo"> [Git](https://www.freecadweb.org/wiki/WebTools_Git): Manages the current document with [Git](https://en.wikipedia.org/wiki/Git).
+<img src="./icons/git.svg" width="20" height="20" alt="git logo"> [Git](https://www.freecadweb.org/wiki/WebTools_Git): Manages the current document with [Git](https://en.wikipedia.org/wiki/Git).
 
-- <img src="./icons/bimserver.svg" width="20" height="20" alt="bimserver logo">  [BimServer](https://www.freecadweb.org/wiki/WebTools_BimServer): Connects and interacts with a [BIM server](https://bimserver.org) instance.  
+<img src="./icons/bimserver.svg" width="20" height="20" alt="bimserver logo">  [BimServer](https://www.freecadweb.org/wiki/WebTools_BimServer): Connects and interacts with a [BIM server](https://bimserver.org) instance.  
 
-- <img src="./icons/sketchfab.svg" width="20" height="20" alt="sketchfab logo"> [Sketchfab](https://www.freecadweb.org/wiki/WebTools_Sketchfab): Connects and uploads a model to a [Sketchfab](https://sketchfab.com) account. 
+<img src="./icons/sketchfab.svg" width="20" height="20" alt="sketchfab logo"> [Sketchfab](https://www.freecadweb.org/wiki/WebTools_Sketchfab): Connects and uploads a model to a [Sketchfab](https://sketchfab.com) account.
+
+<img src="./icons/thingiverse.svg" width="20" height="20" alt="thingiverse logo"> [Thingiverse](https://www.freecadweb.org/wiki/WebTools_Thingiverse): Connects and uploads a model to a [Thingiverse](https://thingiverse.com) account.
 
 ## Installation
 

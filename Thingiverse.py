@@ -5,7 +5,6 @@
 #   -H 'Accept: */*' \
 #   -H 'Accept-Language: en-US,en;q=0.5' \
 #   -H 'Accept-Encoding: gzip, deflate, br, zstd' \
-#   -H 'Authorization: Bearer 1ea4197b91091b3c8ba2bcc215a28ef8' \
 #   -H 'Content-Type: application/json' \
 #   -H 'Origin: https://www.thingiverse.com' \
 #   -H 'Connection: keep-alive' \
@@ -26,7 +25,6 @@
 #   -H 'Accept: */*' \
 #   -H 'Accept-Language: en-US,en;q=0.5' \
 #   -H 'Accept-Encoding: gzip, deflate, br, zstd' \
-#   -H 'Authorization: Bearer 1ea4197b91091b3c8ba2bcc215a28ef8' \
 #   -H 'Content-Type: application/json' \
 #   -H 'Origin: https://www.thingiverse.com' \
 #   -H 'Connection: keep-alive' \
