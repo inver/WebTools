@@ -31,7 +31,7 @@ class WebToolsWorkbench(FreeCADGui.Workbench):
     """Web workbench object"""
 
     def __init__(self):
-        self.__class__.Icon = os.path.join(self.get_workbench_directory(), "icons/webTools.svg")
+        self.__class__.Icon = os.path.join(self.get_workbench_directory(),"icons", "webTools.svg")
         self.__class__.MenuText = "WebTools"
         self.__class__.ToolTip = "WebTools workbench"
 
@@ -73,8 +73,8 @@ class WebToolsWorkbench(FreeCADGui.Workbench):
 
     def Initialize(self):
         # Do not remove imports
-        import BIMServer, Git, Sketchfab
-        cmds = ["WebTools_Git", "WebTools_BimServer", "WebTools_Sketchfab"]  # ,"WebTools_Speckle"]
+        import BIMServer, Git, Sketchfab, Thingiverse
+        cmds = ["WebTools_Git", "WebTools_BimServer", "WebTools_Sketchfab", "WebTools_Thingiverse"]  # ,"WebTools_Speckle"]
         self.appendToolbar("Web tools", cmds)
         self.appendMenu("Web & Tools", cmds)
 
